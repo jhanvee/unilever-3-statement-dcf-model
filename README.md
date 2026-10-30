@@ -6,7 +6,8 @@ An Excel financial model for Unilever PLC: historical statements (FY23–FY25),
 a five-year forecast (FY26E–FY30E), a three-statement build, and a DCF valuation
 with Worst / Base / Best scenarios.
 
-![Summary sheet](docs/summary.png)
+![Summary sheet]<img width="1151" height="1147" alt="summary" src="https://github.com/user-attachments/assets/5dc4cd27-d27b-46c2-a743-1988132405aa" />
+
 
 ## Headline (as built, 30 Oct 2026)
 | Scenario | Value per share | vs €53.90 price |
