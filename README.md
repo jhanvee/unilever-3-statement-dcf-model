@@ -6,7 +6,7 @@ An Excel financial model for Unilever PLC: historical statements (FY23–FY25),
 a five-year forecast (FY26E–FY30E), a three-statement build, and a DCF valuation
 with Worst / Base / Best scenarios.
 
-![Summary sheet]<img width="1151" height="1147" alt="summary" src="https://github.com/user-attachments/assets/5dc4cd27-d27b-46c2-a743-1988132405aa" />
+Executive summary of the Unilever valuation model <img width="1151" height="1147" alt="summary" src="https://github.com/user-attachments/assets/5dc4cd27-d27b-46c2-a743-1988132405aa" />
 
 
 ## Headline (as built, 30 Oct 2026)
