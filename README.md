@@ -28,7 +28,7 @@ so the result is highly sensitive to WACC.
 - `DCF`: WACC, FCFF, valuation bridge, sensitivity grid
 
 ## How to use
-Download `model/Unilever_PLC_3S_DCF_Model_v1_1.xlsx`. Change the scenario in
+Download `model/UNILIVER personal project.xlsx`. Change the scenario in
 `ASSUMPTIONS!C4` (1 = Worst, 2 = Base, 3 = Best). Edit blue cells only.
 
 ## Sources
